@@ -16,6 +16,6 @@ class Persona
 
 }
 
-$persona1 = new Persona("Carlos", 25);
+$persona1 = new Persona("Carlos", 23);
 echo $persona1->mostrarDetalles();
 echo "<br>----------------------------------------------------------------<br>";
